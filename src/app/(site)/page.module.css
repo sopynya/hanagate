@@ -1,0 +1,5 @@
+.page {
+    min-height: 100vh;
+    width: 80%;
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0.514), rgba(255, 255, 255, 0.508)), url('/bg.jpg');
+}

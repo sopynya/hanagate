@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kosugi+Maru&display=swap');
+.sidebar {
+    width: 20%;
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('/sidebar.jpg');
+    background-position: center;
+    background-size: 300px;
+    padding: 15px;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.sidebar h1 {
+    font-family: 'Ubuntu';
+    text-shadow: 
+        -2px -2px 0 #f167a8,  
+         2px -2px 0 #ff9ecb,
+        -2px  2px 0 #ff9ecb,
+         2px  2px 0 #f877b4;
+        color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 34px;
+}
+.sidebar p {
+    color: #f167a8;
+    font-family: 'Ubuntu';
+    font-weight: 900;
+    font-style: italic;
+    text-align: center;
+}
+
+.sidebar nav {
+    display: flex;
+    flex-direction: column;
+    margin: 40px 20px;
+    justify-content: center;
+    align-items: start;
+    gap: 10px;
+}
+.sidebar nav a {
+  font-family: "M PLUS Rounded 1c", sans-serif;
+  font-weight: 900;
+  color: #ed4895;
+    padding: 2px 5px;
+    text-decoration:underline;
+    text-decoration-line: underline;
+    font-size: 18px;
+}
+.sidebar img {
+    width: 100%;
+    border-radius: 5px;
+    object-fit: contain;
+    height: auto;
+    
+}
+.by {
+    color: white !important;
+    background: linear-gradient(to bottom,rgb(248, 188, 203), rgb(241, 131, 179));
+    border: 1px solid #ed4895;
+    padding: 5px;
+}
