@@ -1,0 +1,306 @@
+.reviews{
+
+    background:linear-gradient(180deg,#ffffffb3,#fffafdbc);
+
+    padding:25px;
+    border-radius:14px;
+
+    box-shadow:
+    0 0 12px rgba(241,103,168,0.5),
+    inset 0 0 10px rgba(255,255,255,0.6);
+    margin: 20px;
+
+}
+
+.loading{
+
+    background:linear-gradient(180deg,#ffd6ef,#ffc2e5);
+    border:2px solid #f167a8;
+
+    border-radius:12px;
+    padding:30px;
+
+    text-align:center;
+    font-weight:bold;
+    color:#c73d7e;
+
+    box-shadow:
+    0 0 10px rgba(241,103,168,0.6),
+    inset 0 0 8px white;
+
+}
+.reviewForm h3{
+
+    margin:0;
+    color:#d14b8d;
+    font-size:18px;
+}
+
+.reviewForm{
+
+    background:linear-gradient(180deg,#fff0fa,#ffd9ef);
+
+    border:2px solid #f167a8;
+    border-radius:12px;
+
+    padding:20px;
+    margin-bottom:25px;
+
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+
+    box-shadow:
+    inset 0 0 10px rgba(255,255,255,0.7),
+    0 0 8px rgba(241,103,168,0.4);
+
+}
+
+.reviewForm select{
+    color:#821e50;
+    width:120px;
+
+    padding:6px;
+
+    border:1px solid #f167a8;
+    border-radius:6px;
+
+    background:#fff0fa;
+
+    font-size:14px;
+    cursor: pointer;
+}
+.reviewForm textarea{
+
+    width:100%;
+    height:90px;
+
+    padding:8px;
+
+    border:1px solid #f167a8;
+    border-radius:8px;
+
+    background:white;
+
+    resize:vertical;
+
+    font-size:13px;
+
+    box-shadow:
+    inset 0 0 6px rgba(241,103,168,0.25);
+color:#4c0b2b;
+}
+.reviewForm button{
+
+    align-self:flex-start;
+
+    background:linear-gradient(180deg,#ff9fcd,#f167a8);
+
+    border:1px solid #d94b8f;
+    border-radius:8px;
+
+    padding:7px 16px;
+
+    color:white;
+    font-weight:bold;
+
+    cursor:pointer;
+
+    box-shadow:
+    0 0 6px rgba(241,103,168,0.5),
+    inset 0 1px 0 rgba(255,255,255,0.5);
+
+    transition:all .15s ease;
+
+}
+
+.reviewForm button:hover{
+
+    background:linear-gradient(180deg,#ffb7db,#ff7cbc);
+
+    transform:translateY(-1px);
+
+    box-shadow:
+    0 0 10px rgba(241,103,168,0.7),
+    inset 0 1px 0 rgba(255,255,255,0.6);
+
+}
+
+.reviewForm button:disabled{
+
+    opacity:.6;
+    cursor:default;
+
+}
+
+.list{
+
+    display:flex;
+    flex-direction:column;
+    gap:15px;
+
+}
+
+.review{
+
+    display:flex;
+    gap:12px;
+
+    background:white;
+
+    border:1px solid #ffc2e3;
+    border-radius:10px;
+
+    padding:12px;
+
+    box-shadow:
+    0 0 6px rgba(241,103,168,0.2),
+    inset 0 0 6px rgba(255,192,220,0.3);
+
+}
+.review img{
+
+    width:50px;
+    height:50px;
+
+    border-radius:100%;
+
+    border:2px solid #f167a8;
+
+    object-fit:cover;
+
+}
+.name{
+
+    margin:0;
+    font-weight:bold;
+    color:#d14b8d;
+
+}
+.review small{
+
+    color:#888;
+    font-size:12px;
+
+}
+.vote{
+
+    margin:5px 0;
+    font-size: 15px;
+    font-weight:bold;
+
+    color:#d6bb0d;
+
+}
+.userReview{
+
+    margin:5px 0 0 0;
+
+    font-size:13px;
+    line-height:1.4;
+
+    color:#333;
+
+}
+.pagination{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:14px;
+
+    margin-top:30px;
+    padding:12px 18px;
+
+    
+}
+.pagination button{
+    cursor:pointer;
+
+    width:42px;
+    height:42px;
+
+    border-radius:10px;
+    border:2px solid #ff7bc3;
+
+    font-size:20px;
+    font-weight:bold;
+
+    color:#fff;
+
+    background:linear-gradient(
+        180deg,
+        #ff9ad7 0%,
+        #ff6fba 50%,
+        #ff4ea7 100%
+    );
+
+    box-shadow:
+        inset 0 2px 0 rgba(255,255,255,0.7),
+        0 4px 10px rgba(255,120,190,0.35);
+
+    transition:
+        transform .12s ease,
+        box-shadow .12s ease,
+        filter .12s ease;
+}
+
+
+/* HOVER */
+.pagination button:hover:not(:disabled){
+    transform:translateY(-2px);
+
+    box-shadow:
+        inset 0 2px 0 rgba(255,255,255,0.9),
+        0 6px 14px rgba(255,110,190,0.45);
+
+    filter:brightness(1.08);
+}
+
+
+/* CLICK */
+.pagination button:active:not(:disabled){
+    transform:translateY(1px);
+
+    box-shadow:
+        inset 0 3px 5px rgba(0,0,0,0.15);
+}
+
+
+/* DISABLED */
+.pagination button:disabled{
+    opacity:.4;
+    cursor:not-allowed;
+
+    background:linear-gradient(
+        180deg,
+        #f4c5de,
+        #e7a7cb
+    );
+
+    box-shadow:none;
+}
+
+
+/* TEXTO DA PAGINA */
+.pagination span{
+    font-size:15px;
+    font-weight:bold;
+
+    padding:6px 14px;
+
+    border-radius:8px;
+
+    color:#b10067;
+
+    background:linear-gradient(
+        180deg,
+        #fff,
+        #ffe3f3
+    );
+
+    border:1px solid #ff9ad0;
+
+    box-shadow:
+        inset 0 1px 0 #ffffff,
+        0 2px 6px rgba(255,120,190,0.2);
+}

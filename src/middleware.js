@@ -1,7 +1,8 @@
 import { NextResponse } from "next/server";
 import { getUserIdFromToken } from "@/lib/auth";
 export async function middleware(request) {
-    const userId = await getUserIdFromToken();
+    const token = request.cookies.get("token")?.value;
+    const userId = await getUserIdFromToken(token);
 
     const pathname = request.nextUrl.pathname;
 
