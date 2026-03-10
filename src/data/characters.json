@@ -3,7 +3,40 @@
         "id": 1,
         "enname": "Kazami Yuuji",
         "jpname": "風見 雄二",
-        "gender": "masculine",
-        "image": ""
+        "gender": "♂️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773155020/yuuji_pewi2o.jpg",
+        "vn_id": 1,
+        "role": "protagonist",
+        "rolejp": "主人公"
+    },
+    {
+        "id": 2,
+        "enname": "Irisu Makina",
+        "jpname": "入巣 蒔菜",
+        "gender": "♀️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773156369/irisu_i17evk.jpg",
+        "vn_id": 1,
+        "role": "heroine",
+        "rolejp": "ヒロイン"
+    },
+    {
+        "id": 3,
+        "enname": "Komine Sachi",
+        "jpname": "小嶺 幸",
+        "gender": "♀️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773156828/sachi_mtxida.jpg",
+        "vn_id": 1,
+        "role": "heroine",
+        "rolejp": "ヒロイン"
+    },
+    {
+        "id": 4,
+        "enname": "Matsushima Michiru",
+        "jpname": "松嶋 みちる",
+        "gender": "♀️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773157398/michiru_bfvei4.jpg",
+        "vn_id": 1,
+        "role": "heroine",
+        "rolejp": "ヒロイン"
     }
 ]

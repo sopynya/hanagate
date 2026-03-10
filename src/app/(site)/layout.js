@@ -6,7 +6,8 @@ export default async function MainLayout({children}) {
     return (
         <div style={{display: "flex", minHeight: "100vh"}}>
             <Sidebar user={userId} />
-            {children}
+            <div style={{marginLeft: '20%', minWidth: "80%", minHeight: "100vh"}}>{children}</div>
+            
         </div>
     )
 } 

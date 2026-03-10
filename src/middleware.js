@@ -7,10 +7,10 @@ export async function middleware(request) {
     const pathname = request.nextUrl.pathname;
 
     const authPages = ["/login", "/register"];
-    const protectedPages = ["/profile", "/saved"];
+    const protectedPages = ["/configurations", "/saved"];
 
     if (userId && authPages.includes(pathname)) {
-        return NextResponse.redirect(new URL("/profile", request.url));
+        return NextResponse.redirect(new URL("/", request.url));
     }
 
     if (!userId && protectedPages.includes(pathname)) {
@@ -21,5 +21,5 @@ export async function middleware(request) {
 }
 
 export const config = {
-    matcher: ["/login", "/register", "/profile", "/saved"],
+    matcher: ["/login", "/register", "/configurations", "/saved"],
 };

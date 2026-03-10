@@ -5,6 +5,7 @@ import { useState, useEffect } from 'react';
 import { useUserStore } from '@/store/userStore';
 import BackButton from './BackButton';
 import Reviews from './Reviews';
+import VnCharacters from './VnCharacters';
 export default function VNPage({user, id}) {
     const [reveal, setReveal] = useState(false);
     const [rating, setRating] = useState(0);
@@ -109,8 +110,13 @@ export default function VNPage({user, id}) {
                                 </button>
                             </div>
                         )}
+
+                        <hr className={styles.hr} style={{margin: "10px 0"}} />
+                        <VnCharacters vnId={id} lang={lang} />
                     </div>
                 </div>
+
+                
             </div>
 
             <Reviews vnId={vn.id} user={user} lang={lang} />

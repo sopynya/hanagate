@@ -10,6 +10,7 @@
     display:flex;
     flex-direction: column;
     justify-content: space-between;
+    position: fixed;
 }
 .sidebar h1 {
     font-family: 'Ubuntu';
@@ -100,4 +101,16 @@
   transform: translateY(1px);
   box-shadow:
     inset 0 2px 4px rgba(0,0,0,0.2);
+}
+.sidebar nav button {
+    background-color: transparent;
+    border: none;
+    font-family: "M PLUS Rounded 1c", sans-serif;
+  font-weight: 900;
+  color: #ed4895;
+    padding: 2px 5px;
+    text-decoration:underline;
+    text-decoration-line: underline;
+    font-size: 18px;
+    cursor: pointer;
 }
