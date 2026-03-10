@@ -55,8 +55,8 @@ export default function Users() {
             ): (
                 <div className={styles.list}>
                     {users.map(u => (
-                        <div key={u.id} className={styles.user} data-color={u.color}> 
-                            <Link href={`/users/${u.username}`}>
+                        <div key={u.id} > 
+                            <Link href={`/users/${u.username}`} className={styles.user} data-color={u.color}>
                                 <img src={u.avatar} />
                                 <div>
                                     <h3>{u.name}</h3>

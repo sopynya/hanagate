@@ -49,7 +49,7 @@ export default function Sidebar({user}) {
                         <div className={styles.nav}>
                             <Link href='/saved'>{lang === 'eng' ? 'My List': 'マイリスト'}</Link>
                             {username && <Link href={`/users/${username}`}>{lang === 'eng' ? 'Profile': 'プロフィール'}</Link>}
-                            <Link href='/configurations'>{lang === 'eng' ? 'Configurations': '設定'}</Link>
+                            <Link href='/settings'>{lang === 'eng' ? 'Settings': '設定'}</Link>
                         </div>
                     ) : (
                         <div className={styles.nav}>
@@ -57,6 +57,7 @@ export default function Sidebar({user}) {
                             <Link href='/register'>{lang === 'eng' ? 'Register': '登録'}</Link>
                         </div>
                     )}
+                    <Link href='/about'>{lang === 'eng' ? 'About': 'このサイトについて'}</Link>
                 </nav>
             </div>
             <div>

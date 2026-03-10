@@ -154,3 +154,15 @@
     font-size: 14px;
     text-align: center;
 }
+
+.warning {
+    color: grey;
+    text-align: center;
+    font-size: 13.5px;
+    margin: 20px;
+}
+.dev {
+    text-align: end;
+    font-weight: 800;
+    color: #7a1b4d;
+}

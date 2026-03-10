@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kosugi+Maru&display=swap');
+.bg {
+    width: 100%;
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0.514), rgba(255, 255, 255, 0.508)), url('/bg2.jpg');
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    min-height: 100%;
+    display:flex;
+    justify-content:center;
+
+}
+.page{
+max-width:900px;
+margin:20px auto;
+background:linear-gradient(
+to bottom,
+rgba(255,255,255,0.97),
+rgba(255,245,250,0.95)
+);
+border:1px solid #ffd6e8;
+padding:40px;
+border-radius:12px;
+box-shadow:
+0 10px 25px rgba(0,0,0,0.12),
+0 0 0 6px rgba(255,200,220,0.15);
+}
+.page h1{
+font-family:'Kosugi Maru', sans-serif;
+
+color:#ff5fa4;
+
+font-size:36px;
+
+margin-bottom:35px;
+
+border-bottom:4px solid #ffd6e8;
+
+padding-bottom:12px;
+
+letter-spacing:1px;
+
+text-shadow:0 1px 2px rgba(255,150,190,0.4);
+}
+.page h2{
+color:#ff6fae;
+margin-top:30px;
+margin-bottom:10px;
+padding-left:16px;
+position:relative;
+font-size:22px;
+}
+.page h2::before{
+content:"";
+
+position:absolute;
+
+left:0;
+top:6px;
+
+width:6px;
+height:20px;
+
+background:linear-gradient(
+to bottom,
+#ff9ac7,
+#ff5fa4
+);
+
+border-radius:3px;
+}
+
+.page p{
+color:#4b4b4b;
+
+line-height:1.8;
+
+margin-bottom:16px;
+
+font-size:15.5px;
+
+letter-spacing:0.2px;
+
+}
+
+.page ul{
+margin-left:22px;
+
+margin-top:12px;
+
+padding-left:10px;
+}
+.page li{
+margin-bottom:8px;
+
+color:#7f1947;
+
+font-size:15px;
+
+position:relative;
+
+padding-left:6px;
+}
+.page li::marker{
+color:#ff8fbc;
+}
+.page b{
+color:#ff4fa0;
+}
+.section{
+
+padding-bottom:10px;
+
+border-bottom:1px dashed rgba(255, 160, 200, 0.556);
+
+margin-bottom:18px;
+
+}
+.page a{
+
+color:#ff4fa0;
+
+text-decoration:none;
+
+border-bottom:1px dotted #ff9ac7;
+
+transition:all .2s;
+
+}
+
+.page a:hover{
+
+color:#ff2f8e;
+
+border-bottom:1px solid #ff2f8e;
+
+}

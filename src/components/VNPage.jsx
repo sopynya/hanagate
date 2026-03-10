@@ -89,11 +89,13 @@ export default function VNPage({user, id}) {
                         <h1>{vn.enname}</h1>
                         <h2>{vn.jpname}</h2>
                         <p className={styles.average}>{vn.playtime}h - ★ { Number(rating.average).toFixed(1)} / 10</p>
+                        <p className={styles.dev}>{lang === "eng" ? "Developer" : "開発者"}: {vn.developer}</p>
                         <div className={styles.categories}>
                             {categories.map((cat) => (
                                 <p key={cat}>{cat}</p>
                             ))}
                         </div>
+                        
                         <hr className={styles.hr} />
                         <p className={styles.description}>{description}</p>
 
@@ -113,9 +115,15 @@ export default function VNPage({user, id}) {
 
                         <hr className={styles.hr} style={{margin: "10px 0"}} />
                         <VnCharacters vnId={id} lang={lang} />
+                    
                     </div>
+                    
                 </div>
-
+                        <p className={styles.warning}>
+                            {lang === "eng" 
+                            ? "Character images belong to their respective creators and studios. They are used for identification and fan purposes only. If you are the copyright holder and want content removed, please contact us." 
+                            : "掲載されているキャラクター画像の著作権は、各制作会社および権利者に帰属します。問題がある場合や削除をご希望の際は、お手数ですがご連絡ください。"}
+                        </p>
                 
             </div>
 
