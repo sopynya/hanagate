@@ -21,3 +21,28 @@ a {
   color: inherit;
   text-decoration: none;
 }
+
+[data-color = 'pink'] {
+  --title-color: #be326c;
+  --border-accent: #f285b2;
+  --shadow-dark: #f167a899;
+  --accent-color: #f35899;
+  --bg-main: #f187b3;
+  --border-light: #ffddeb;
+}
+[data-color = 'blue'] {
+  --title-color: #3288be;
+  --border-accent: #85b6f2;
+  --shadow-dark: #67b7f199;
+  --accent-color: #58adf3;
+  --bg-main: #87c3f1;
+  --border-light: #ddf4ff;
+}
+[data-color = 'yellow'] {
+  --title-color: #efd31f;
+  --border-accent: #f2de85;
+  --shadow-dark: #f1d86799;
+  --accent-color: #f1d13f;
+  --bg-main: #f1e687;
+  --border-light: #fffcdd;
+}

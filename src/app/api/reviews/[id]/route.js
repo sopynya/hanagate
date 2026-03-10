@@ -23,6 +23,7 @@ export async function GET(req,{ params }) {
         FROM stars
         JOIN users ON users.id::text = stars.user_id
         WHERE stars.vn_id = ${vnId}
+        ORDER BY stars.updated_at DESC
         LIMIT ${limit}
         OFFSET ${offset}
     `;

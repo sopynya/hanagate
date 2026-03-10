@@ -12,7 +12,7 @@ export default function Reviews({vnId,user,lang}) {
     const [text,setText] = useState("");
     const [posting,setPosting] = useState(false);
 
-    const pages = Math.ceil(total/10)
+    const pages = Math.ceil(total/6)
 
     async function load() {
         setLoading(true);
@@ -47,11 +47,6 @@ export default function Reviews({vnId,user,lang}) {
         load();
     }
 
-    if(loading) return(
-        <div className={styles.loading}>
-            <p>Loading...</p>
-        </div>
-    )
     return(
         <div className={styles.reviews}>
             {user && (
@@ -79,7 +74,11 @@ export default function Reviews({vnId,user,lang}) {
             )}
 
             <div className={styles.list}>
-                {reviews.map(r=>(
+                {loading ? (
+                    <div className={styles.loading}>
+                        <p>Loading...</p>
+                    </div>
+                ) : reviews.map(r=>(
                     <div key={r.user_id} className={styles.review}>
                         <img src={r.avatar} />
                         <div>
