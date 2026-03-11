@@ -4,6 +4,7 @@ import styles from "./user.module.css";
 import novels from "@/data/vn.json";
 import { useUserStore } from "@/store/userStore";
 import Link from "next/link";
+import Loading from "./Loading";
 
 export default function User({ username }) {
   const lang = useUserStore((s) => s.language);
@@ -63,12 +64,7 @@ export default function User({ username }) {
 
     if (loading || !profile) {
         return (
-        <div className={styles.bg}>
-            <div className={styles.loading}>
-                <p>{lang==="eng"?"Loading...":"読み込み中..."}</p>
-                <img src='/loading.jpg'/>
-            </div>
-        </div>
+        <Loading />
         );
     }
 

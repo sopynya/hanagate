@@ -6,6 +6,7 @@
     min-height: 100%;
     display: flex;
     justify-content: center;
+    overflow: scroll;
 }
 .page {
     width:100%;
@@ -183,4 +184,11 @@ color:#444;
 }
 .avatar.active {
   border: 2px solid #ff6fae;
+}
+.logout {
+  margin: 20px;
+  text-align: center;
+  color: rgb(174, 33, 33);
+  text-decoration: underline;
+  cursor: pointer;
 }

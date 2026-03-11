@@ -12,7 +12,7 @@ export default function Users() {
     const [input,setInput] = useState("");
     const [search,setSearch] = useState("");
 
-    const pages = Math.ceil(total/20)
+    const pages = Math.ceil(total/20);
 
     async function load() {
         setLoading(true);

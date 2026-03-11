@@ -38,5 +38,105 @@
         "vn_id": 1,
         "role": "heroine",
         "rolejp": "ヒロイン"
+    },
+    {
+        "id": 5,
+        "enname": "Sakaki Yumiko",
+        "jpname": "榊 由美子",
+        "gender": "♀️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773179868/sakaki_uqjz8f.jpg",
+        "vn_id": 1,
+        "role": "heroine",
+        "rolejp": "ヒロイン"
+    },
+    {
+        "id": 6,
+        "enname": "Suou Amane",
+        "jpname": "周防 天音",
+        "gender": "♀️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773180098/amane_ffhao7.jpg",
+        "vn_id": 1,
+        "role": "heroine",
+        "rolejp": "ヒロイン"
+    },
+    {
+        "id": 7,
+        "enname": "Okabe Rintarou",
+        "jpname": "岡部 倫太郎",
+        "gender": "♂️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773256118/okabe_ttmwmr.jpg",
+        "vn_id": 2,
+        "role": "protagonist",
+        "rolejp": "主人公"
+    },
+    {
+        "id": 8,
+        "enname": "Makise Kurisu",
+        "jpname": "牧瀬 紅莉栖",
+        "gender": "♀️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773256502/kurisu_frpzrc.jpg",
+        "vn_id": 2,
+        "role": "heroine",
+        "rolejp": "ヒロイン"
+    },
+    {
+        "id": 9,
+        "enname": "Shiina Mayuri",
+        "jpname": "椎名 まゆり",
+        "gender": "♀️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773256659/mayuri_gzhjvg.jpg",
+        "vn_id": 2,
+        "role": "heroine",
+        "rolejp": "ヒロイン"
+    },
+    {
+        "id": 10,
+        "enname": "Hashida Itaru",
+        "jpname": "橋田 至",
+        "gender": "♂️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773256849/itaru_egfbyf.jpg",
+        "vn_id": 2,
+        "role": "hero",
+        "rolejp": "ヒーロー"
+    },
+    {
+        "id": 11,
+        "enname": "Amane Suzuha",
+        "jpname": "阿万音 鈴羽",
+        "gender": "♀️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773257551/suzuha_q1lrco.jpg",
+        "vn_id": 2,
+        "role": "heroine",
+        "rolejp": "ヒロイン"
+    },
+    {
+        "id": 12,
+        "enname": "Kiryuu Moeka",
+        "jpname": "桐生 萌郁",
+        "gender": "♀️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773257629/moeka_ncllgk.jpg",
+        "vn_id": 2,
+        "role": "heroine",
+        "rolejp": "ヒロイン"
+    },
+    {
+        "id": 13,
+        "enname": "Urushibara Ruka",
+        "jpname": "漆原 るか",
+        "gender": "♂️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773257796/ruka_d14o4x.jpg",
+        "vn_id": 2,
+        "role": "hero",
+        "rolejp": "ヒーロー"
+    },
+    {
+        "id": 14,
+        "enname": "Akiha Rumiho",
+        "jpname": "秋葉 留未穂",
+        "gender": "♀️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773258021/humiho_jmk4by.jpg",
+        "vn_id": 2,
+        "role": "heroine",
+        "rolejp": "ヒロイン"
     }
 ]

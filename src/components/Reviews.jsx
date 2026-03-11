@@ -2,6 +2,7 @@
 
 import { useEffect,useState } from "react"
 import styles from "./reviews.module.css"
+import Link from "next/link";
 export default function Reviews({vnId,user,lang}) {
     const [reviews,setReviews] = useState([]);
     const [loading,setLoading] = useState(true);
@@ -82,8 +83,10 @@ export default function Reviews({vnId,user,lang}) {
                     <div key={r.user_id} className={styles.review}>
                         <img src={r.avatar} />
                         <div>
+                            <Link href={`/users/${r.username}`}>
                             <p className={styles.name}>{r.name}</p>
                             <small>@{r.username}</small>
+                            </Link>
                             <p className={styles.vote}> ★ {r.vote} / 10 ★</p>
                             {r.review && (<p className={styles.userReview}>{r.review}</p>)}
                         </div>

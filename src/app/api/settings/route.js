@@ -1,4 +1,3 @@
-// app/api/settings/route.js
 import { sql } from "@/lib/db";
 import { NextResponse } from "next/server";
 import { getUserIdFromToken } from "@/lib/getUser";
@@ -8,7 +7,7 @@ export async function GET(req) {
     const userId = await getUserIdFromToken();
 
     const [profile] = await sql`
-      SELECT id, name, username, description
+      SELECT id, name, username, description, avatar
       FROM users
       WHERE id = ${userId}
     `;

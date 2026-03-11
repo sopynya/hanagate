@@ -5,7 +5,7 @@ import { useUserStore } from "@/store/userStore";
 import avatarsData from "@/data/avatar.json";
 import novels from "@/data/vn.json";
 import characters from "@/data/characters.json";
-
+import Loading from "./Loading"
 const ITEMS_PER_PAGE = 10;
 
 export default function Settings() {
@@ -107,11 +107,23 @@ export default function Settings() {
     setInputs({ ...inputs, avatar: link });
   }
 
+  async function handleLogout() {
+    try {
+      const res = await fetch('/api/auth/logout', {
+        method: 'POST',
+        credentials: "include"
+      });
+      if (!res.ok) throw new Error("Error logging out");
+      window.location.href = "/login"
+    } catch(err) {
+      console.log(err.message)
+    }
+
+  }
   if (loading) return (
-    <div className={styles.bg}>
-        <p className={styles.loading}>{lang === "eng" ? "Loading..." : "読み込み中..."}</p>
-    </div>
+    <Loading />
   );
+  
 
   return (
     <div className={styles.bg}>
@@ -215,6 +227,8 @@ export default function Settings() {
           ? "Save Settings"
           : "設定を保存"}
         </button>
+
+        <p className={styles.logout} onClick={handleLogout}>Logout</p>
       </div>
     </div>
   );

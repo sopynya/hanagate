@@ -19,13 +19,15 @@ const tagGroups = {
     { eng: "violence", jp: "暴力表現" },
     { eng: "crime", jp: "犯罪" },
     { eng: "gore", jp: "ゴア" },
-    { eng: "psychological", jp: "心理" }
+    { eng: "psychological", jp: "心理" },
+    { eng: "thriller", jp: "スリラ" },
+    { eng: "suspense", jp: "サスペンス" },
+    { eng: "mecha", jp: "メカ" }
   ],
 
   route: [
     { eng: "multiple routes", jp: "複数ルート" },
-    { eng: "single route", jp: "単一ルート" },
-    { eng: "true ending", jp: "トゥルーエンド" }
+    { eng: "single route", jp: "単一ルート" }
   ],
 
   adult: [

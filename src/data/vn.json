@@ -11,5 +11,31 @@
         "safe": true,
         "categoriesjp": ["恋愛", "ドラマ", "心理", "日常", "性的表現", "コメディ", "複数ルート", "長い"],
         "descriptionjp": "風見 雄二は、美浜学園へ転入する。そこはわずか五人の女子生徒しかいない、まるで閉ざされた場所のような学園だった。この学園に通う生徒たちは、それぞれ特別な「事情」を抱えている。しかし雄二自身は、彼女たちの問題に関わることを求められているわけではない。彼が望んだのは、ただ普通の学生としての生活を送ることだった。"
+    },
+    {
+        "id": 2,
+        "enname": "STEINS;GATE",
+        "jpname": "STEINS;GATE",
+        "playtime": 43,
+        "developer": "MAGES. & NITRO PLUS & MAGES. Inc.",
+        "description": "18-year-old Rintaro Okabe, who, together with his friends, accidentally discovers a method of time travel through which they can send text messages to the past, thereby changing the present.",
+        "categories": ["romance", "sci-fi", "medium", "mystery", "suspense"],
+        "cover": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773194492/steinsgate_lyetln.jpg",
+        "safe": true,
+        "categoriesjp": ["恋愛", "SF", "中", "ミステリー"],
+        "descriptionjp": "18歳の岡部 倫太郎は、仲間たちとともに、偶然にも過去へテキストメッセージを送ることで現在を変えることができるタイムトラベルの方法を発見する。"
+    },
+    {
+        "id": 3,
+        "enname": "Saya no Uta",
+        "jpname": "沙耶の唄",
+        "playtime": 6,
+        "developer": "NITRO PLUS & Asoberu! BD-GAME",
+        "description": "Fuminori Sakisaka is a medical school student involved in a vehicle accident that claimed the lives of both his parents and left him with critical injuries. He was rescued by experimental brain surgery that coincidentally altered his perception of the world dramatically. Everything now seems to be composed of slimy intestines and gore to him. Fuminori's desire to live dwindles, and one night, while still in the hospital, he contemplates suicide. However, a girl in a white dress named Saya appears before him. Compared to the horrible surroundings, she looks completely normal, if not downright gorgeous.",
+        "categories": ["romance", "medium", "mystery", "gore", "thriller", "horror", "psychological"],
+        "cover": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773194492/steinsgate_lyetln.jpg",
+        "safe": true,
+        "categoriesjp": ["恋愛", "SF", "中", "ミステリー"],
+        "descriptionjp": "18歳の岡部 倫太郎は、仲間たちとともに、偶然にも過去へテキストメッセージを送ることで現在を変えることができるタイムトラベルの方法を発見する。"
     }
 ]

@@ -171,11 +171,12 @@ color:#4c0b2b;
 
 }
 .name{
-
     margin:0;
     font-weight:bold;
     color:#d14b8d;
-
+}
+.name:hover {
+    text-decoration: underline;
 }
 .review small{
 

@@ -19,7 +19,7 @@ export default function Login() {
             });
             if (res.ok) {
                 setLoading(false);
-                window.location.href = "/profile"
+                window.location.href = "/"
             } else {
                 const data = await res.json();
                 setError(data.error);
