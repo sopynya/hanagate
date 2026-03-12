@@ -25,11 +25,6 @@ const tagGroups = {
     { eng: "mecha", jp: "メカ" }
   ],
 
-  route: [
-    { eng: "multiple routes", jp: "複数ルート" },
-    { eng: "single route", jp: "単一ルート" }
-  ],
-
   adult: [
     { eng: "none", jp: "なし" },
     { eng: "sexual content", jp: "性的表現" }
@@ -56,9 +51,11 @@ export default function Main() {
     const setOrder = useUserStore(s => s.setOrder);
     const [readStats, setReadStats] = useState({});
     const [starStats, setStarStats] = useState({});
+    const [loading, setLoading] = useState(true);
 
     useEffect(() => {
         async function loadStats() {
+            setLoading(true);
             const res = await fetch("/api/vn-stats");
             const data = await res.json();
 
@@ -77,6 +74,7 @@ export default function Main() {
 
             setReadStats(readMap)
             setStarStats(starMap);
+            setLoading(false);
         }
         loadStats();
     }, [])
@@ -124,7 +122,7 @@ export default function Main() {
         }
 
         return result;
-    }, [searchTerm, selectedTags]);
+    }, [searchTerm, selectedTags, order, setOrder, readStats, starStats]);
 
     const totalPages = Math.ceil(filteredVNs.length / itemsPerPage);
     const paginated = useMemo(() => {
@@ -132,6 +130,9 @@ export default function Main() {
         return filteredVNs.slice(start, start + itemsPerPage);
     }, [filteredVNs, page, itemsPerPage]);
 
+    useEffect(() => {
+        setPage(1);
+    }, [searchTerm, selectedTags, order]);
 
     return (
         <div className={styles.page}>
@@ -177,7 +178,6 @@ export default function Main() {
                                 <h3>
                                     {lang === "eng" ? key : {
                                     general: "一般",
-                                    route: "ルート",
                                     adult: "成人向け",
                                     playtime: "プレイ時間"
                                     }[key]
@@ -215,7 +215,14 @@ export default function Main() {
 
 
             <div className={styles.vnlist}>
-                {paginated.map(vn => {
+                {loading && (
+                    <div className={styles.loading}>
+                        <div className={styles.circle}>
+                            <div className={styles.half}></div>
+                        </div>
+                    </div>
+                )}
+                {!loading && paginated.map(vn => {
                     const title = lang === "eng" ? vn.enname : vn.jpname;
                     const blocked = !ofAge && !vn.safe && !revealed.includes(vn.id);
 

@@ -189,7 +189,6 @@
 .cover{
   width:100%;
   height:340px;
-
   border-radius:8px;
   overflow:hidden;
 
@@ -376,4 +375,36 @@ font-size: 14px;
   margin-bottom: 6px;
 
   color: #c7377c;
+}
+.circle {
+  position: relative;
+  width: 64px;
+  height: 64px;
+  border: 4px solid #ddd;
+  border-radius: 50%;
+}
+
+.half {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 4px solid transparent;
+  border-top: 4px solid #ff69b4;
+  border-right: 4px solid transparent;
+  border-bottom: 4px solid transparent;
+  border-left: 4px solid transparent;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+.loading {
+  display:flex;
+  justify-content: center;
+  align-items: center;
 }

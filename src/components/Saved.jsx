@@ -64,7 +64,7 @@ export default function Saved() {
     return(
         <div className={styles.bg}>
             <header className={styles.header}>
-                <input type='search' placeholder={lang === "eng" ? "Search saved VNs..." : ""}
+                <input type='search' placeholder={lang === "eng" ? "Search saved VNs..." : "保存したVNを検索…"}
                 onChange={(e)=>setInput(e.target.value)} onKeyDown={handleKey}
                 />
                 <button onClick={handleSearch}>{lang==="eng"?"Search":"検索"}</button>

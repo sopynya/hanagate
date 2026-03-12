@@ -9,7 +9,7 @@
         "categories": ["romance", "drama", "psychological", "slice of life", "sexual content", "comedy", "multiple routes", "long"],
         "cover": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773085304/grisaia_jy4lvw.jpg",
         "safe": true,
-        "categoriesjp": ["恋愛", "ドラマ", "心理", "日常", "性的表現", "コメディ", "複数ルート", "長い"],
+        "categoriesjp": ["恋愛", "ドラマ", "心理", "日常", "性的表現", "コメディ", "長い"],
         "descriptionjp": "風見 雄二は、美浜学園へ転入する。そこはわずか五人の女子生徒しかいない、まるで閉ざされた場所のような学園だった。この学園に通う生徒たちは、それぞれ特別な「事情」を抱えている。しかし雄二自身は、彼女たちの問題に関わることを求められているわけではない。彼が望んだのは、ただ普通の学生としての生活を送ることだった。"
     },
     {
@@ -22,7 +22,7 @@
         "categories": ["romance", "sci-fi", "medium", "mystery", "suspense"],
         "cover": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773194492/steinsgate_lyetln.jpg",
         "safe": true,
-        "categoriesjp": ["恋愛", "SF", "中", "ミステリー"],
+        "categoriesjp": ["恋愛", "SF", "中", "ミステリー", "サスペンス"],
         "descriptionjp": "18歳の岡部 倫太郎は、仲間たちとともに、偶然にも過去へテキストメッセージを送ることで現在を変えることができるタイムトラベルの方法を発見する。"
     },
     {
@@ -32,10 +32,114 @@
         "playtime": 6,
         "developer": "NITRO PLUS & Asoberu! BD-GAME",
         "description": "Fuminori Sakisaka is a medical school student involved in a vehicle accident that claimed the lives of both his parents and left him with critical injuries. He was rescued by experimental brain surgery that coincidentally altered his perception of the world dramatically. Everything now seems to be composed of slimy intestines and gore to him. Fuminori's desire to live dwindles, and one night, while still in the hospital, he contemplates suicide. However, a girl in a white dress named Saya appears before him. Compared to the horrible surroundings, she looks completely normal, if not downright gorgeous.",
-        "categories": ["romance", "medium", "mystery", "gore", "thriller", "horror", "psychological"],
-        "cover": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773194492/steinsgate_lyetln.jpg",
+        "categories": ["romance", "short", "mystery", "gore", "thriller", "horror", "psychological", "sexual content"],
+        "cover": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773266022/sayanouta_ohrwmz.jpg",
         "safe": true,
-        "categoriesjp": ["恋愛", "SF", "中", "ミステリー"],
-        "descriptionjp": "18歳の岡部 倫太郎は、仲間たちとともに、偶然にも過去へテキストメッセージを送ることで現在を変えることができるタイムトラベルの方法を発見する。"
+        "categoriesjp": ["恋愛", "短い", "ミステリー", "ゴア", "スリラ", "ホラー", "心理", "性的表現"],
+        "descriptionjp": "医学生の匂坂 郁紀は、両親の命を奪った交通事故に巻き込まれ、自身も重傷を負う。彼は実験的な脳手術によって救われるが、その手術の影響で世界の見え方が大きく変わってしまう。彼の目には、すべてが粘つく腸や血肉の塊のように見えるようになってしまったのだ。生きる意欲を失いかけた郁紀は、ある夜、まだ入院中の病院で自殺を考える。しかしそのとき、白いワンピースを着た「沙耶」という少女が彼の前に現れる。おぞましい世界の中で、彼女だけはまったく普通に――いや、むしろ驚くほど美しく見えた。"
+    },
+    {
+        "id": 4,
+        "enname": "G-senjou no Maou",
+        "jpname": "G線上の魔王",
+        "playtime": 35,
+        "developer": "AKABEiSOFT2",
+        "description": "The story follows Kyousuke Azai, a student living a double life as the adopted son of a Yakuza boss, tasked with managing his family's debts. His life turns into a high-stakes cat-and-mouse game when a mysterious transfer student, Haru Usami, arrives to stop 'Maou', an elusive criminal mastermind causing chaos in the city.",
+        "categories": ["mystery", "crime", "suspense", "thriller", "romance", "medium", "sexual content"],
+        "cover": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773266979/gsenjounomaou_v0pndx.jpg",
+        "safe": true,
+        "categoriesjp": ["ミステリー", "犯罪", "サスペンス", "スリラ", "恋愛", "中", "性的表現"],
+        "descriptionjp": "物語は、浅井 京介を中心に描かれる。彼はヤクザの組長の養子として育てられ、家族の借金を管理するという二重生活を送る学生である。そんな彼の平穏な日常は、街で混乱を引き起こしている謎の犯罪首謀者「魔王」を止めるため、宇佐美 春という謎めいた転校生が現れたことで、一変する。こうして京介の人生は、危険な駆け引きに満ちたハイリスクな追跡劇へと変わっていく。"
+    },
+    {
+        "id": 5,
+        "enname": "Ao no Kanata no Four Rhythm",
+        "jpname": "蒼の彼方のフォーリズム",
+        "playtime": 44,
+        "developer": "sprite",
+        "description": "The story follows former Flying Circus (FC) prodigy Masaya Hinata, who quit after a devastating defeat, and his journey to regain his passion for the sport after teaching transfer student Asuka Kurashina.",
+        "categories": ["romance", "medium", "comedy", "sexual content"],
+        "cover": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773274600/aonokanata_bimgfz.jpg",
+        "safe": true,
+        "categoriesjp": ["恋愛", "中", "コメディ", "性的表現"],
+        "descriptionjp": "物語は、かつてフライングサーカス(FC)の天才選手と呼ばれながらも、ある大きな敗北をきっかけに競技をやめてしまった日向 真也を中心に描かれる。彼は転校生の倉科 明日香にフライングサーカスを教えることを通して、次第にこのスポーツへの情熱を取り戻していく。"
+    },
+    {
+        "id": 6,
+        "enname": "Muv-Luv",
+        "jpname": "マブラヴ",
+        "playtime": 45,
+        "developer": "age & aNCHOR Inc.",
+        "description": "Muv-Luv is a acclaimed visual novel series starting as a cliché romantic comedy (Extra) before pivoting into a brutal sci-fi war drama. Protagonist Takeru Shirogane is transported to an alternate world (Unlimited) where humanity is nearly extinct from an alien invasion (BETA), leading into a desperate fight for survival (Alternative).",
+        "categories": ["romance", "comedy", "action", "mecha", "slice of life", "sexual content", "medium"],
+        "cover": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773337116/muvluv_bysdw3.jpg",
+        "safe": true,
+        "categoriesjp": ["恋愛", "コメディ", "アクション", "メカ", "日常", "性的表現", "中"],
+        "descriptionjp": "『マブラヴ』は、高く評価されているビジュアルノベルシリーズで、最初は典型的なラブコメディ（Extra）として始まるが、やがて過酷なSF戦争ドラマへと展開していく。主人公の白銀 武は、別の世界（Unlimited）へと送り込まれ、そこで人類は地球外生命体「BETA」の侵略によってほぼ絶滅寸前の状況に追い込まれていることを知る。そして物語は、人類の生存をかけた絶望的な戦い（Alternative）へと続いていく。"
+    },
+    {
+        "id": 7,
+        "enname": "Hoshizora no Memoria -Wish Upon a Shooting Star-",
+        "jpname": "星空のメモリア-Wish upon a shooting star-",
+        "playtime": 56,
+        "developer": "FAVORITE",
+        "description": "After their mother’s death, You Kogasaka and his sister Chinami return to their hometown of Hibarigasaki to live with their aunt. As a child, You used to spend his days playing with a girl at the town’s observatory lookout, where he promised he would one day return and marry her. Years later, back in Hibarigasaki, You meets a mysterious scythe-wielding girl named Mare at the now abandoned lookout who strongly resembles his childhood friend. While making new friends at school and work, You continues searching for the girl from his past and wonders who Mare really is and whether he can finally fulfill his old promise.",
+        "categories": ["romance", "comedy", "fantasy", "slice of life", "sexual content", "long"],
+        "cover": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773338689/memoria_uvjdmy.jpg",
+        "safe": true,
+        "categoriesjp": ["恋愛", "コメディ", "ファンタジー", "日常", "性的表現", "長い"],
+        "descriptionjp": "母の死後、小笠坂 悠は妹の千波とともに、叔母のもとで暮らすため故郷の雲雀ヶ崎へ戻る。子どもの頃、悠は町の展望台で一人の少女と毎日のように遊び、「いつか戻ってきて結婚する」と彼女に約束していた。数年後、雲雀ヶ崎に戻った悠は、今では廃墟となった展望台で鎌を持つ謎の少女マーレと出会う。彼女は、かつての幼なじみによく似ていた。学校やアルバイト先で新しい友人たちと出会いながら、悠は過去の少女を探し続ける。そして、マーレの正体とは何なのか、そして彼はかつての約束を果たすことができるのだろうか。"
+    },
+    {
+        "id": 8,
+        "enname": "Lover Able",
+        "jpname": "ラブラブル～Lover Able～",
+        "playtime": 16,
+        "developer": "SMEE",
+        "description": "Haruki and his imouto Kaho move to a new town due to their parents work and are taken care of by their uncle. Due to a promise made between the adults, they have to help out at their uncle’s beachside cafe Fruitia. During the summer, he meets a girl that transferred in at the same time Chinatsu, quiet and mysterious classmate Satsuki, lively kouhai Tsugumi and fellow part-timer Nanako. Of course, Kaho is always by his side. This is the beginning of a summer romance.",
+        "categories": ["romance", "comedy", "slice of life", "sexual content", "short"],
+        "cover": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773347626/loverable_wjbf87.jpg",
+        "safe": true,
+        "categoriesjp": ["恋愛", "コメディ", "日常", "性的表現", "短い"],
+        "descriptionjp": "春樹は妹の佳穂とともに、両親の仕事の都合で新しい町へ引っ越し、叔父のもとで世話になることになる。大人同士の約束により、二人は叔父が経営する海辺のカフェ「Fruitia」を手伝うことになる。夏の間、春樹は同じ時期に転校してきた少女・千夏、物静かでミステリアスなクラスメイトの皐月、元気な後輩のつぐみ、そして同じアルバイトの菜々子と出会う。もちろん、佳穂もいつも彼のそばにいる。こうして、ひと夏の恋の物語が始まる。"
+    },
+    {
+        "id": 9,
+        "enname": "Fureraba ~Friend to Lover~",
+        "jpname": "フレラバ ～Friend to Lover～",
+        "playtime": 40,
+        "developer": "SMEE",
+        "description": "Aoba Kyousuke starts his second year of high school with a firm goal: finding a girlfriend before summer. The story follows his attempt to transition from being just friends to becoming lovers with one of the game's, endearing female characters, focusing on tender romance.",
+        "categories": ["romance", "comedy", "slice of life", "sexual content", "medium"],
+        "cover": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773349020/fureraba_ccdbv2.jpg",
+        "safe": true,
+        "categoriesjp": ["恋愛", "コメディ", "日常", "性的表現", "中"],
+        "descriptionjp": "青葉恭介は高校2年生の新学期を、夏までに彼女を作るという固い目標を胸に迎える。物語は、ゲームに登場する魅力的なヒロインの一人と、ただの友達関係から恋人関係へと進んでいこうとする彼の姿を描き、やさしく甘い恋愛を中心に展開していく。"
+    },
+    {
+        "id": 10,
+        "enname": "Saku Saku: Love Blooms with the Cherry Blossoms",
+        "jpname": "恋がさくころ桜どき",
+        "playtime": 44,
+        "developer": "SakuSaku",
+        "description": "Yuma Asaba, a popular boy uninterested in love despite acting as an advice counselor for female classmates. His life changes when he meets Tina, a self-proclaimed 'cupid' who forces him to find love.",
+        "categories": ["romance", "drama", "comedy", "slice of life","sexual content","medium"],
+        "cover": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773349547/sakusaku_jjfaqq.jpg",
+        "safe": true,
+        "categoriesjp": ["恋愛", "ドラマ", "コメディ", "日常", "性的表現", "中"],
+        "descriptionjp": "浅葉悠真は、女子クラスメイトの恋愛相談に乗ることは多いものの、自分自身は恋愛に興味のない人気者の男子。そんな彼の生活は、自称「キューピッド」のティナと出会ったことで一変する。彼女は悠真に無理やり恋を見つけさせようとするのだった。"
+    },
+    {
+        "id": 11,
+        "enname": "Renai, Karichaimashita: Koikari - Love For Hire",
+        "jpname": "恋愛、借りちゃいました",
+        "playtime": 30,
+        "developer": "ASa Project",
+        "description": "Renai, Karichaimashita: Koikari - Love For Hire is a romantic comedy visual novel focusing on Yuki, a student working hard to support his little sister. Desperate for money, he takes on a job as a 'rental boyfriend,' leading to chaotic situations, fake relationships, and potential romance with multiple girls who hire him.",
+        "categories": ["romance", "comedy", "slice of life", "sexual content", "medium"],
+        "cover": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773350412/koikari_btzg39.jpg",
+        "safe": true,
+        "categoriesjp": ["恋愛", "コメディ", "日常", "性的表現", "中"],
+        "descriptionjp": "恋愛、借りちゃいましたは、妹を支えるために懸命に働く学生、新海幸を中心に描かれるラブコメディ系ビジュアルノベル。お金に困った彼は、「レンタル彼氏」として働く仕事を引き受けることになり、そこから物語が大きく動き出す。彼を雇う複数の女の子たちとの偽の恋人関係や騒がしい出来事の中で、やがて本当の恋へと発展していく可能性も描かれていく。"
     }
 ]
