@@ -193,5 +193,31 @@
         "safe": true,
         "categoriesjp": ["恋愛", "コメディ", "日常", "性的表現", "中"],
         "descriptionjp": "自称オタクの小森江宗介は、オタク仲間の「Bチーム」と、両親の再婚によってできた義妹の小森江七瑠と共に、のんびりとした平和な日常を楽しんでいた。しかしその穏やかな生活は、夏休みの一か月前に突然崩れる。長い間離れて暮らしていた実の妹、小森江すずが突然彼らと一緒に暮らすことになったのだ。"
+    },
+    {
+        "id": 16,
+        "enname": "Koiken Otome",
+        "jpname": "恋剣乙女",
+        "playtime": 30,
+        "developer": "Eufonie",
+        "description": "Seiichi, a student at an elite academy training people with 'douryoku' abilities against alien Kotona invaders, discovers his unique 'Amplifier' power, allowing him to boost his classmates abilities while navigating romance with four main heroines.",
+        "categories": ["romance", "fantasy", "comedy", "sexual content", "medium"],
+        "cover": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773436076/koiken_re96oh.jpg",
+        "safe": true,
+        "categoriesjp": ["恋愛", "ファンタジー", "コメディ", "性的表現", "中"],
+        "descriptionjp": "エリート養成学園に通う学生、清一。その学園では、宇宙からの侵略者「コトナ」に対抗するため、「動力（どうりょく）」と呼ばれる特殊能力を持つ人材が育成されていた。ある日、清一は自分だけが持つ特別な能力――仲間の力を増幅させる「アンプリファイア」の力に目覚める。彼はクラスメイトたちの能力を強化しながら、四人のメインヒロインとの恋愛にも向き合っていくことになる。"
+    },
+    {
+        "id": 17,
+        "enname": "Hello,good-bye",
+        "jpname": "Hello,good-bye",
+        "playtime": 25,
+        "developer": "Lump of Sugar",
+        "description": "Toubu Kaito, a military officer from the United Provinces of Japan, infiltrates the Tenshudo Academy in the neutral Special District Morino. While gathering intel, he encounters a mysterious girl in a flower garden, leading him to re-evaluate his mission and personal happiness.",
+        "categories": ["mystery", "romance", "drama", "sexual content", "short"],
+        "cover": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773437111/hellogoodbye_fsr7xj.jpg",
+        "safe": true,
+        "categoriesjp": ["ミステリー", "恋愛", "ドラマ", "性的表現", "短い"],
+        "descriptionjp": "東武カイトは、日本連合州軍の将校として、中立地帯である特別区・森野にある天守堂学園へ潜入する。任務は情報収集だった。しかし、花園で出会った一人の謎めいた少女との邂逅をきっかけに、彼は自らの任務、そして自分自身の幸せについて見つめ直すことになる。"
     }
 ]

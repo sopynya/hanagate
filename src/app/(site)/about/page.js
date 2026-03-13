@@ -55,6 +55,12 @@ export default function AboutPage() {
 
                     <p>
                         {lang === "eng"
+                        ? `This website was heavily inspired by VNDB (vndb.org), a well-known visual novel database created and maintained by the community.`
+                        : `このサイトは、コミュニティによって作られ運営されている有名なビジュアルノベルデータベース「VNDB (vndb.org)」から大きな影響を受けています。`}
+                    </p>
+
+                    <p>
+                        {lang === "eng"
                             ? `All visual novels and images belong to their respective creators, studios, and publishers. This website does not claim ownership of the original works.`
                             : `すべてのビジュアルノベルおよび画像の権利は、それぞれの制作会社・出版社・クリエイターに帰属します。このサイトはそれらの権利を主張するものではありません。`}
                     </p>
