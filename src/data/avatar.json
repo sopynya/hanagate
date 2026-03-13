@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "vn_id": 1,
-        "character_id": 2,
+        "vn_id": 0,
+        "character_id": 0,
         "link": "/bg.jpg"
     },
     {
@@ -34,5 +34,17 @@
         "vn_id": 2,
         "character_id": 14,
         "link": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773431921/faris_csperf.jpg"
+    },
+    {
+        "id": 7,
+        "vn_id": 2,
+        "character_id": 9,
+        "link": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773432681/mayuri1_fauknz.jpg"
+    },
+    {
+        "id": 7,
+        "vn_id": 2,
+        "character_id": 9,
+        "link": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773432678/mayuri_jf9uvb.jpg"
     }
 ]
