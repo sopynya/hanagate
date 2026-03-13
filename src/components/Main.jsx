@@ -154,7 +154,7 @@ export default function Main() {
                             onClick={() => setOrder('read')}
                             className={order === 'read' ? styles.activeOrder : ''}
                         >
-                            {lang === 'eng' ? 'Most Saved' : '保存数'}
+                            {lang === 'eng' ? 'Most Read' : '閲覧数トップ'}
                         </button>
 
                         <button

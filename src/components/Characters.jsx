@@ -12,22 +12,17 @@ export default function Characters() {
     const lang = useUserStore(s => s.language);
     const [page, setPage] = useState(1);
 
-    // Filtragem e pesquisa
     const filteredCharacters = useMemo(() => {
         let filtered = char;
 
-        // Filtra por tags selecionadas
         if (selectedTags.length > 0) {
             filtered = filtered.filter(c => {
-                // verifica gênero
                 const genderMatch = selectedTags.some(tag => tag === c.gender);
-                // verifica role
                 const roleMatch = selectedTags.some(tag => tag === c.role);
                 return genderMatch || roleMatch;
             });
         }
 
-        // Filtra por pesquisa
         if (searchTerm.trim() !== "") {
             filtered = filtered.filter(c => {
                 const name = lang === "eng" ? c.enname : c.jpname;
@@ -95,6 +90,10 @@ export default function Characters() {
                                 className={selectedTags.includes("side character") ? styles.activeTag : ""}
                                 onClick={() => toggleTag("side character")}
                             >{lang === "eng" ? "side character" : "脇役"}</button>
+                            <button
+                                className={selectedTags.includes("villain") ? styles.activeTag : ""}
+                                onClick={() => toggleTag("villain")}
+                            >{lang === "eng" ? "villain" : "悪役"}</button>
                         </div>
                     </div>
                 )}

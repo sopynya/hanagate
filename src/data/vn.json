@@ -141,5 +141,31 @@
         "safe": true,
         "categoriesjp": ["恋愛", "コメディ", "日常", "性的表現", "中"],
         "descriptionjp": "恋愛、借りちゃいましたは、妹を支えるために懸命に働く学生、新海幸を中心に描かれるラブコメディ系ビジュアルノベル。お金に困った彼は、「レンタル彼氏」として働く仕事を引き受けることになり、そこから物語が大きく動き出す。彼を雇う複数の女の子たちとの偽の恋人関係や騒がしい出来事の中で、やがて本当の恋へと発展していく可能性も描かれていく。"
+    },
+    {
+        "id": 12,
+        "enname": "Ikinari Anata ni Koishiteiru",
+        "jpname": "いきなりあなたに恋している",
+        "playtime": 23,
+        "developer": "Makura",
+        "description": "High-spirited Tane, bitter smiling Eika, cold gazing Ryou and new resident Tsumugu. How did Chouji’s normal life suddenly become like the Palace of Versailles? The story is constructed like a slice-of-life light novel, albeit with lots of ichaicha since there’s four heroines who are already at max affection with him.",
+        "categories": ["romance", "comedy", "slice of life", "sexual content", "short"],
+        "cover": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773365567/ikinari_yxvuoa.jpg",
+        "safe": true,
+        "categoriesjp": ["恋愛", "コメディ", "日常", "性的表現", "短い"],
+        "descriptionjp": "元気いっぱいの鬼ヶ瀬胤、苦笑いを浮かべる柳瀬詠歌、冷たい視線の湯川涼、そして新しくやって来た住人の養老紡。どうして柳瀬重耳の平凡な日常は、まるでベルサイユ宮殿のようになってしまったのだろうか？物語はスライス・オブ・ライフ系のライトノベルのような構成で描かれるが、彼に対してすでに好感度MAXのヒロインが四人もいるため、いちゃいちゃ要素がたっぷり詰まっている。"
+    },
+    {
+        "id": 13,
+        "enname": "Osananajimi wa Daitouryou: My girlfriend is the PRESIDENT.",
+        "jpname": "幼なじみは大統領 My girlfriend is the PRESIDENT.",
+        "playtime": 30,
+        "developer": "ALcot",
+        "description": "An accident on a spaceship heading to earth, causes it to crash into the office of the Prime Minister of Japan. The ministers end up in a state too horrible to look at. To avoid chaos, the alien choses a girl who happened to be there, and to make ends meet, brainwashed all of mankind. Nippon adopts a presidential system overnight, and incredibly, a girl, my childhood friend, is the president. The world will answer to her every whim.",
+        "categories": ["romance", "comedy", "slice of life", "sexual content", "medium"],
+        "cover": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773366156/president_ms5pjj.jpg",
+        "safe": true,
+        "categoriesjp": ["恋愛", "コメディ", "日常", "性的表現", "中"],
+        "descriptionjp": "地球へ向かっていた宇宙船で事故が起こり、日本の首相官邸のオフィスに墜落してしまう。その結果、そこにいた大臣たちは目を覆いたくなるほど悲惨な状態になってしまった。混乱を避けるため、宇宙人はその場に偶然居合わせた一人の少女を選び、人類すべてを洗脳してしまう。こうして日本は一夜にして大統領制を採用することになり、しかも信じられないことに、その少女――俺の幼なじみが大統領になってしまった。世界は、彼女の気まぐれひとつで動くことになるのだった。"
     }
 ]

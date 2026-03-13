@@ -138,5 +138,305 @@
         "vn_id": 2,
         "role": "heroine",
         "rolejp": "ヒロイン"
+    },
+    {
+        "id": 15,
+        "enname": "Harudera Yuria",
+        "jpname": "春寺 由梨亜",
+        "gender": "♀️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773352862/harudera_wqyxi9.jpg",
+        "vn_id": 1,
+        "role": "side character",
+        "rolejp": "脇役"
+    },
+    {
+        "id": 16,
+        "enname": "Kazami Kazuki",
+        "jpname": "風見 一姫",
+        "gender": "♀️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773353150/kazami_bofiyt.jpg",
+        "vn_id": 1,
+        "role": "side character",
+        "rolejp":"脇役"
+    },
+    {
+        "id": 17,
+        "enname": "Tachibana Chizuru",
+        "jpname": "橘 千鶴",
+        "gender": "♀️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773353264/tachibana_xfu9na.jpg",
+        "vn_id": 1,
+        "role": "side character",
+        "rolejp":"脇役"
+    },
+    {
+        "id": 18,
+        "enname": "Tennouji Nae",
+        "jpname": "天王寺 綯",
+        "gender": "♀️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773353411/nae_dmfhbl.jpg",
+        "vn_id": 2,
+        "role": "side character",
+        "rolejp": "脇役"
+    },
+    {
+        "id": 19,
+        "enname": "Tennouji Yuugo",
+        "jpname": "天王寺 裕吾",
+        "gender": "♂️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773353526/yuugo_dxubbh.jpg",
+        "vn_id": 2,
+        "role": "side character",
+        "rolejp":"脇役"
+    },
+    {
+        "id": 20,
+        "enname": "Sakisaka Fuminori",
+        "jpname": "匂坂 郁紀",
+        "gender": "♂️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773353701/fuminori_ccfjxd.jpg",
+        "vn_id": 3,
+        "role": "protagonist",
+        "rolejp": "主人公"
+    },
+    {
+        "id": 21,
+        "enname": "Saya",
+        "jpname": "沙耶",
+        "gender": "♀️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773353789/saya_y1grcr.jpg",
+        "vn_id": 3,
+        "role": "heroine",
+        "rolejp": "ヒロイン"
+    },
+    {
+        "id": 22,
+        "enname": "Tonoo Kouji",
+        "jpname": "戸尾 耕司",
+        "gender": "♂️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773354105/kouji_ia9vxi.jpg",
+        "vn_id": 3,
+        "role": "hero",
+        "rolejp":"ヒーロー"
+    },
+    {
+        "id": 23,
+        "enname": "Tanbo Ryouko",
+        "jpname": "丹保 凉子",
+        "gender": "♀️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773354274/ryouko_eenflm.jpg",
+        "vn_id": 3,
+        "role": "heroine",
+        "rolejp": "ヒロイン"
+    },
+    {
+        "id": 24,
+        "enname": "Tsukuba You",
+        "jpname": "津久葉 瑶",
+        "gender": "♀️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773354379/tsukubayou_mexvll.jpg",
+        "vn_id": 3,
+        "role": "heroine",
+        "rolejp":"ヒロイン"
+    },
+    {
+        "id": 25,
+        "enname": "Suzumi Yousuke",
+        "jpname": "鈴見 洋祐",
+        "gender": "♂️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773355162/suzumi_ustpzw.jpg",
+        "vn_id": 3,
+        "role": "side character",
+        "rolejp":"脇役"
+    },
+    {
+        "id": 26,
+        "enname": "Takahata Oumi",
+        "jpname": "高畠 青海",
+        "gender": "♀️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773355289/oumi_vkltza.jpg",
+        "vn_id": 3,
+        "role": "side character",
+        "rolejp":"脇役"
+    },
+    {
+        "id": 27,
+        "enname": "Azai Kyousuke",
+        "jpname": "浅井 京介",
+        "gender": "♂️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773355661/azai_gweats.jpg",
+        "vn_id": 4,
+        "role": "protagonist",
+        "rolejp":"主人公"
+    },
+    {
+        "id": 28,
+        "enname": "Usami Haru",
+        "jpname": "宇佐美 ハル",
+        "gender": "♀️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773356100/haru_srzqvb.jpg",
+        "vn_id": 4,
+        "role":"heroine",
+        "rolejp": "ヒロイン"
+    },
+    {
+        "id": 29,
+        "enname": "Azai Kanon",
+        "jpname": "浅井 花音",
+        "gender": "♀️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773356289/kanon_xz3zeo.jpg",
+        "vn_id": 4,
+        "role": "heroine",
+        "rolejp": "ヒロイン"
+    },
+    {
+        "id": 30,
+        "enname": "Aizawa Eiichi",
+        "jpname": "相沢 栄一",
+        "gender": "♂️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773356431/eiichi_ykk68q.jpg",
+        "vn_id": 4,
+        "role": "hero",
+        "rolejp": "ヒーロー"
+    },
+    {
+        "id": 31,
+        "enname": "Maou",
+        "jpname": "魔王",
+        "gender": "♂️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773356772/maou_pgz3l5.jpg",
+        "vn_id": 4,
+        "role": "villain",
+        "rolejp": "悪役"
+    },
+    {
+        "id": 32,
+        "enname": "Miwa Tsubaki",
+        "jpname": "美輪 椿姫",
+        "gender": "♀️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773357536/miwa_gzqnmq.jpg",
+        "vn_id": 4,
+        "role": "heroine",
+        "rolejp": "ヒロイン"
+    },
+    {
+        "id": 33,
+        "enname": "Shiratori Mizuha",
+        "jpname": "白鳥 水羽",
+        "gender":"♀️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773357856/mizuha_t5itc1.jpg",
+        "vn_id": 4,
+        "role": "heroine",
+        "rolejp":"ヒロイン"
+    },
+    {
+        "id": 34,
+        "enname": "Tokita Yuki",
+        "jpname": "時田 ユキ",
+        "gender": "♀️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773361097/tokita_jkmf6s.jpg",
+        "vn_id": 4,
+        "role": "side character",
+        "rolejp": "脇役"
+    },
+    {
+        "id": 35,
+        "enname": "Miwa Hiroaki",
+        "jpname": "美輪 広明",
+        "gender": "♂️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773363429/miwa_tfzvs8.jpg",
+        "vn_id": 4,
+        "role": "side character",
+        "rolejp":"脇役"
+    },
+    {
+        "id": 36,
+        "enname": "Hinata Masaya",
+        "jpname": "日向 晶也",
+        "gender": "♂️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773363648/hinata_obbxk1.jpg",
+        "vn_id": 5,
+        "role": "protagonist",
+        "rolejp":"主人公"
+    },
+    {
+        "id": 37,
+        "enname": "Kurashina Asuka",
+        "jpname": "倉科 明日香",
+        "gender": "♀️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773363730/asuka_y7fwl6.jpg",
+        "vn_id": 5,
+        "role": "heroine",
+        "rolejp":"ヒロイン"
+    },
+    {
+        "id": 38,
+        "enname": "Tobisawa Misaki",
+        "jpname": "鳶沢 みさき",
+        "gender":"♀️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773363806/misaki_zig3yj.jpg",
+        "vn_id": 5,
+        "role": "heroine",
+        "rolejp": "ヒロイン"
+    },
+    {
+        "id": 39,
+        "enname": "Arisaka Mashiro",
+        "jpname": "有坂 真白",
+        "gender": "♀️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773363928/mashiro_fjrdl3.jpg",
+        "vn_id": 5,
+        "role": "heroine",
+        "rolejp": "ヒロイン"
+    },
+    {
+        "id": 40,
+        "enname": "Ichinose Rika",
+        "jpname": "市ノ瀬 莉佳",
+        "gender": "♀️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773364034/rika_lo3zwh.jpg",
+        "vn_id": 5,
+        "role": "heroine",
+        "rolejp":"ヒロイン"
+    },
+    {
+        "id": 41,
+        "enname": "Shirogane Takeru",
+        "jpname": "白銀 武",
+        "gender":"♂️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773364246/takeru_r8eyyi.jpg",
+        "vn_id": 6,
+        "role": "protagonist",
+        "rolejp":"主人公"
+    },
+    {
+        "id": 42,
+        "enname": "Kagami Sumika",
+        "jpname": "鑑 純夏",
+        "gender": "♀️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773364739/sumika_manvpc.jpg",
+        "vn_id": 6,
+        "role":"heroine",
+        "rolejp": "ヒロイン"
+    },
+    {
+        "id": 43,
+        "enname": "Mitsurugi Meiya",
+        "jpname": "御剣 冥夜",
+        "gender": "♀️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773364939/meiya_ug94lh.jpg",
+        "vn_id": 7,
+        "role": "heroine",
+        "rolejp":"ヒロイン"
+    },
+    {
+        "id": 44,
+        "enname": "Ayamine Kei",
+        "jpname": "彩峰 慧",
+        "gender": "♀️",
+        "image": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773364469/ayamine_u1dlud.jpg",
+        "vn_id": 6,
+        "role": "heroine",
+        "rolejp": "ヒロイン"
     }
 ]
