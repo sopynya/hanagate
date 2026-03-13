@@ -4,5 +4,35 @@
         "vn_id": 1,
         "character_id": 2,
         "link": "/bg.jpg"
+    },
+    {
+        "id": 2,
+        "vn_id": 3,
+        "character_id": 21,
+        "link": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773430947/Saya_No_Uta_knez8e.jpg"
+    },
+    {
+        "id": 3,
+        "vn_id": 3,
+        "character_id": 21,
+        "link": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773431095/saya_qzrygw.jpg"
+    },
+    {
+        "id": 4,
+        "vn_id": 2,
+        "character_id": 7,
+        "link": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773431200/Kichiwashuu_evzuvf.jpg"
+    },
+    {
+        "id": 5,
+        "vn_id": 2,
+        "character_id": 8,
+        "link": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773431319/kurisu_xmqyhd.jpg"
+    },
+    {
+        "id": 6,
+        "vn_id": 2,
+        "character_id": 14,
+        "link": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773431921/faris_csperf.jpg"
     }
 ]

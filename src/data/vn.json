@@ -167,5 +167,31 @@
         "safe": true,
         "categoriesjp": ["恋愛", "コメディ", "日常", "性的表現", "中"],
         "descriptionjp": "地球へ向かっていた宇宙船で事故が起こり、日本の首相官邸のオフィスに墜落してしまう。その結果、そこにいた大臣たちは目を覆いたくなるほど悲惨な状態になってしまった。混乱を避けるため、宇宙人はその場に偶然居合わせた一人の少女を選び、人類すべてを洗脳してしまう。こうして日本は一夜にして大統領制を採用することになり、しかも信じられないことに、その少女――俺の幼なじみが大統領になってしまった。世界は、彼女の気まぐれひとつで動くことになるのだった。"
+    },
+    {
+        "id": 14,
+        "enname": "euphoria",
+        "jpname": "euphoria",
+        "playtime": 31,
+        "developer": "CLOCKUP",
+        "description": "Keisuke wakes up wearing a collar and is forced to choose one of six girls to perform tasks with, acting as the 'keyhole' to unlock doors in a deadly game. Failure to comply with the perverse, violent, and humiliating demands results in immediate death, enforced by a mysterious voice",
+        "categories": ["violence", "mystery", "gore", "thriller", "sexual content", "medium"],
+        "cover": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773429160/euphoria_yctuvt.jpg",
+        "safe": true,
+        "categoriesjp": ["暴力表現", "ミステリー", "ゴア", "スリラ", "性的表現", "中"],
+        "descriptionjp": "高遠恵輔は、首輪をつけられた状態で目を覚ます。そして、六人の少女のうち一人を選び、彼女と共に行動しながら「鍵穴」として扉を解放する役割を強制される。それは命を懸けた残酷なゲームだった。倒錯的で暴力的、そして屈辱的な要求に従わなければならず、もし従わなければ即座に死が待っている。すべては、どこからともなく響く謎の声によって支配されていた。"
+    },
+    {
+        "id": 15,
+        "enname": "Suki to Suki to de Sankaku Ren'ai",
+        "jpname": "スキとスキとでサンカク恋愛",
+        "playtime": 29,
+        "developer": "ASa Project",
+        "description": "Sousuke Komorie is a self-proclaimed otaku enjoying a peaceful, lazy life with his otaku friends (the 'B-Team') and his step-sister, Nanaru, following his parents' remarriage. This tranquility is broken a month before summer break when his biological sister, Suzu—from whom he was separated for years—suddenly comes to live with them.",
+        "categories": ["romance", "comedy", "slice of life", "sexual content", "medium"],
+        "cover": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773430324/sukitosuki_iwb5bm.jpg",
+        "safe": true,
+        "categoriesjp": ["恋愛", "コメディ", "日常", "性的表現", "中"],
+        "descriptionjp": "自称オタクの小森江宗介は、オタク仲間の「Bチーム」と、両親の再婚によってできた義妹の小森江七瑠と共に、のんびりとした平和な日常を楽しんでいた。しかしその穏やかな生活は、夏休みの一か月前に突然崩れる。長い間離れて暮らしていた実の妹、小森江すずが突然彼らと一緒に暮らすことになったのだ。"
     }
 ]
