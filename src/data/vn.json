@@ -219,5 +219,83 @@
         "safe": true,
         "categoriesjp": ["ミステリー", "恋愛", "ドラマ", "性的表現", "短い"],
         "descriptionjp": "東武カイトは、日本連合州軍の将校として、中立地帯である特別区・森野にある天守堂学園へ潜入する。任務は情報収集だった。しかし、花園で出会った一人の謎めいた少女との邂逅をきっかけに、彼は自らの任務、そして自分自身の幸せについて見つめ直すことになる。"
+    },
+    {
+        "id": 18,
+        "enname": "Tsuki ni Yorisou Otome no Sahou",
+        "jpname": "月に寄りそう乙女の作法",
+        "playtime": 37,
+        "developer": "Navel",
+        "description": "The story follows Yuusei Ookura, a talented young fashion designer who leaves his prestigious, oppressive family to pursue his own path. To attend a top design school, he cross-dresses as a girl, becoming a maid and attendant to a wealthy student, Luna Sakurakouji, while navigating school life.",
+        "categories": ["romance", "drama", "sexual content", "medium"],
+        "cover": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773440441/tsuki_yxtpf3.jpg",
+        "safe": true,
+        "categoriesjp": ["恋愛", "ドラマ", "性的表現", "中"],
+        "descriptionjp": "物語は、才能ある若きファッションデザイナー 大蔵遊星 を中心に描かれる。彼は名家でありながら抑圧的な家族のもとを離れ、自分自身の道を追い求めることを決意する。名門デザイン学校に通うため、遊星は女装して少女として生活することになり、裕福な学生 桜小路ルナ のメイド兼付き人として仕えることになる。そうして彼は、秘密を抱えながら学園生活を送っていく。"
+    },
+    {
+        "id": 19,
+        "enname": "Majo Koi Nikki",
+        "jpname": "魔女こいにっき",
+        "playtime": 29,
+        "developer": "Qoobrand",
+        "description": "Alice attends Hekihou Academy with her friends Yakko and Keiko, where she's a member of the photography club. She lives alone except for her pet dog Qoo, and she holds down a part-time job as a waitress at Dragon Burger. Her life is busy and content, but sometimes she feels like there's something she's forgetting, something she left undone. Maybe even something important. One day Alice and her friends visit the clock tower. There, an unusual book falls into Alice's lap: the diary of a mysterious and rather perverted young man. Why do all the girls Alice meets show up in the diary? Why does nobody remember the events in the diary? And why does Alice feel so strongly that she wants to meet that young man?",
+        "categories": ["romance", "drama", "mystery", "comedy", "fantasy", "sexual content", "medium"],
+        "cover": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773441713/majokoinikki_gqimvj.jpg",
+        "safe": true,
+        "categoriesjp": ["恋愛", "ドラマ", "ミステリー", "コメディ", "ファンタジー", "性的表現", "中"],
+        "descriptionjp": "アリスは友人のヤッコとケイコと共に碧峰学園に通い、写真部に所属している。彼女は愛犬のクーと一緒に暮らしており、アルバイトとして「ドラゴンバーガー」でウェイトレスもしている。ある日、アリスと友人たちは時計塔を訪れる。そこで、奇妙な一冊の本がアリスの膝の上に落ちてくる。それは、正体不明でどこか変態的な青年の日記だった。なぜアリスが出会う女の子たちは、みんなその日記に登場しているのだろうか。なぜ誰もその日記に書かれている出来事を覚えていないのだろうか。そしてなぜアリスは、その青年にどうしても会いたいという強い気持ちを抱いてしまうのだろうか。"
+    },
+    {
+        "id": 20,
+        "enname": "Love's Sweet Garnish",
+        "jpname": "恋ニ、甘味ヲソエテ",
+        "playtime": 10,
+        "developer": "Canvas+Garden",
+        "description": "My new home is my grandmother’s house that also functions as a café. Due to my grandmother’s recent illness and hospitalization, however, she was forced to close the café until further notice. When I heard about my grandmother’s situation from Chisato Komada (a childhood friend who is like an older sister to me), I looked around the desolate café and my heart was filled with a sense of loneliness. It was then I immediately thought: “I want to bring the shop back to life again and show it to grandmother…!!!” We renovated the inside of the shop and gave it a new name. We prepared a new menu and café uniforms and began the hiring process to find new, part-time staff. Right away two girls, Niwasaka Rira and Shionomiya Rishie, came into the cafe. 「“Um… would it be ok if we worked here?”」 An unusually strong breeze blew cherry blossom petals inside the shop and they fluttered and danced around the cafe, myself, and the girls around me. This could only be a premonition of the bittersweet tale that would soon follow… (From Denpasoft announcement)",
+        "categories": ["romance", "sexual content", "short"],
+        "cover": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773449935/koini_eugkna.jpg",
+        "safe": true,
+        "categoriesjp": ["恋愛", "性的表現", "短い"],
+        "descriptionjp": "僕の新しい住まいは、祖母の家――そして同時にカフェでもある場所だった。しかし祖母が最近体調を崩して入院してしまい、カフェはしばらくの間、休業せざるを得なくなっていた。祖母の状況を、幼なじみで姉のような存在の駒田千里から聞かされた僕は、人気のない寂れたカフェの中を見渡し、胸いっぱいに寂しさが込み上げてきた。その時、ふと強く思った。「もう一度この店をよみがえらせて、祖母に見せたい……！！」僕たちは店内を改装し、新しい名前をつけた。新しいメニューやカフェの制服も用意し、アルバイトの新しいスタッフを募集することにした。するとすぐに、庭坂リラと汐宮リシエという二人の女の子がカフェにやって来た。「えっと……ここで働いてもいいですか？」その瞬間、強い春風が吹き込み、桜の花びらが店内へと舞い込んできた。花びらはカフェの中でひらひらと舞いながら、僕と、そしてそこにいた女の子たちの周りを包み込むように踊る。それは、これから始まるほろ苦くも甘い物語の前触れだったのかもしれない……。"
+    },
+    {
+        "id": 21,
+        "enname": "Futamata Ren'ai: Two Times the Trouble",
+        "jpname": "フタマタ恋愛",
+        "playtime": 25,
+        "developer": "ASa Project",
+        "description": "Koga Nao, a college student who accidentally starts dating Toiro Kirame after a wild night out. Complications arise when his long-time crush, Nobuta Yua, confesses her love, forcing Nao into a chaotic two-timing situation.",
+        "categories": ["romance", "comedy", "drama", "sexual content", "short"],
+        "cover": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773451991/futamata_bu9wyg.jpg",
+        "safe": true,
+        "categoriesjp": ["恋愛", "コメディ", "ドラマ", "性的表現", "短い"],
+        "descriptionjp": "大学生の古賀凪青は、ある夜の騒がしい飲み会のあと、思いがけず十色煌と付き合うことになってしまう。しかし状況はさらに複雑になる。長い間想いを寄せていた相手、信田結愛が彼に愛の告白をしたのだ。こうして凪青は、思いがけず二股のような混乱した恋愛関係に巻き込まれていくことになる。"
+    },
+    {
+        "id": 22,
+        "enname": "We Without Wings",
+        "jpname": "俺たちに翼はない",
+        "playtime": 60,
+        "developer": "Navel",
+        "description": "Set in Yanagihara, the series tells the story about the masses of people and buildings make it a bustling place to exist, and yet, people will meet and fall in love here in this city.",
+        "categories": ["romance", "slice of life", "drama", "sexual content", "long"],
+        "cover": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773453043/wings_a5wbdf.jpg",
+        "safe": true,
+        "categoriesjp": ["恋愛", "日常", "ドラマ", "性的表現", "長い"],
+        "descriptionjp": "物語の舞台は柳原。多くの人々と建物が集まり、活気に満ちた場所であるこの街では、日々さまざまな出会いが生まれている。そしてこの街で、人々は出会い、やがて恋に落ちていく。"
+    },
+    {
+        "id": 23,
+        "enname": "Himawari no Kyoukai to Nagai Natsuyasumi",
+        "jpname": "向日葵の教会と長い夏休み",
+        "playtime": 32,
+        "developer": "Makura",
+        "description": "Yousuke returned to his hometown of Oboshiro-mura after 8 years in Tokyo and Osaka. He had received a letter from Father Arakawa, who had raised him up as a child, telling him that the Oboshiro church will be closing and merged with a larger church in a neighbouring town, and inviting him back for one last summer together. He reunited with his childhood friends Yomi, Daiya and Ruka, and also met a little girl named Hina who reminded him of himself when he was a child. This is the beginning of a cheerful and refreshing, yet sometimes painful, summer tale. [From Hau~ Omochikaeri!]",
+        "categories": ["romance", "drama", "fantasy", "sexual content", "medium"],
+        "cover": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773453351/himawari_rhsbic.jpg",
+        "safe": true,
+        "categoriesjp": ["恋愛", "ドラマ", "ファンタジー", "性的表現", "中"],
+        "descriptionjp": "陽介は、東京や大阪での生活を経て、8年ぶりに故郷のおぼしろ村へ戻ってきた。彼が帰郷したのは、幼い頃に自分を育ててくれた荒川神父から手紙を受け取ったためだった。手紙には、おぼしろ教会が閉鎖され、隣町の大きな教会と統合されること、そして最後の夏を一緒に過ごそうという誘いが書かれていた。陽介は幼なじみのヨミ、ダイヤ、ルカと再会し、さらに幼い頃の自分を思い出させるような少女、ヒナとも出会う。こうして、明るく爽やかでありながら、ときに胸が痛むような夏の物語が始まるのだった。（Hau~ Omochikaeri! より）"
     }
 ]
