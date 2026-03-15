@@ -297,5 +297,97 @@
         "safe": true,
         "categoriesjp": ["恋愛", "ドラマ", "ファンタジー", "性的表現", "中"],
         "descriptionjp": "陽介は、東京や大阪での生活を経て、8年ぶりに故郷のおぼしろ村へ戻ってきた。彼が帰郷したのは、幼い頃に自分を育ててくれた荒川神父から手紙を受け取ったためだった。手紙には、おぼしろ教会が閉鎖され、隣町の大きな教会と統合されること、そして最後の夏を一緒に過ごそうという誘いが書かれていた。陽介は幼なじみのヨミ、ダイヤ、ルカと再会し、さらに幼い頃の自分を思い出させるような少女、ヒナとも出会う。こうして、明るく爽やかでありながら、ときに胸が痛むような夏の物語が始まるのだった。（Hau~ Omochikaeri! より）"
+    },
+    {
+        "id": 24,
+        "enname": "A December Without Angels",
+        "jpname": "天使のいない12月",
+        "playtime": 13,
+        "developer": "Leaf",
+        "description": "The story follows Tokinori Kida, a pessimistic, antisocial high schooler who avoids relationships. After an accidental encounter with the sensitive Touko Kurihara, the two engage in an emotionally intense, unhealthy relationship that triggers a psychological journey regarding life's meaning.",
+        "categories": ["romance", "drama", "sexual content", "short"],
+        "cover": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773457361/tenshinoinai_bx0yle.jpg",
+        "safe": true,
+        "categoriesjp": ["恋愛", "ドラマ", "性的表現", "短い"],
+        "descriptionjp": "物語は、悲観的で人付き合いを避ける反社会的な高校生 木田時紀 を中心に描かれる。ある日、感受性の強い少女 栗原透子 と偶然出会ったことをきっかけに、二人は感情的に激しく、どこか不健全な関係を築いていく。その関係はやがて、人生の意味について問い直すような、心理的な旅へとつながっていく。"
+    },
+    {
+        "id": 25,
+        "enname": "My Little Sister's Special Place",
+        "jpname": "Imouto no Seiiki",
+        "playtime": 4,
+        "developer": "feng",
+        "description": "“You won’t let your younger sister take your virginity even though you’re into Akiba stuff… I hate you, onii-chan!”",
+        "categories": ["romance", "comedy", "sexual content", "short"],
+        "cover": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773510345/imoutonoseiiki_nftudv.jpg",
+        "safe": false,
+        "categoriesjp": ["恋愛", "コメディ", "性的表現", "短い"],
+        "descriptionjp": "“アキバ系が好きなくせに、妹に童貞を奪わせてくれないなんて……大っ嫌いだよ、お兄ちゃん！“"
+    },
+    {
+        "id": 26,
+        "enname": "Tasogare no Sinsemilla",
+        "jpname": "黄昏のシンセミア",
+        "playtime": 42,
+        "developer": "Applique",
+        "description": "Kousuke Minagami, a university student who returns to his rural hometown, only to have his peaceful life shattered by attacks from a monster called Yamawaro. He uncovers dark secrets regarding local legends, his own forgotten past, and a mysterious woman named Ginko.",
+        "categories": ["romance", "mystery", "drama", "sexual content", "medium"],
+        "cover": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773514708/tasogare_qx42rv.jpg",
+        "safe": true,
+        "categoriesjp": ["恋愛", "ミステリー", "ドラマ", "性的表現", "中"],
+        "descriptionjp": "大学生の皆神孝介は、田舎の故郷へと戻ってくる。しかし、その穏やかな日常は「ヤマワロ」と呼ばれる怪物の襲撃によって打ち砕かれてしまう。やがて彼は、土地に伝わる不気味な伝承や、自分自身の忘れられた過去、そして銀子という謎めいた女性にまつわる暗い秘密へと足を踏み入れていくことになる。"
+    },
+    {
+        "id": 27,
+        "enname": "PURE×CONNECT",
+        "jpname": "ピュア×コネクト",
+        "playtime": 25,
+        "developer": "SMEE",
+        "description": "Hayato has yearned for a heart-throbbing romance for a long time, but instead is bored wasting away time every day. He wishes to fall in love like in an eroge, but everyone around him just makes fun of him for it. But that’s what every guy wants, right? Is it really so wrong to want such a relationship?In the middle of November, a small chance appeared when he was asked to work part-time at the popular bakery restaurant, La Pivoine. Finding himself in a situation he never imagined being in, he thought to break free of his current norm. He agreed to work there and acquainted himself with the staff: Sora, his childhood friend who has no interest in falling in love; Shiho, the store manager whose lover is her job; Moemi, the moodmaker part-timer who treasures her family over all; Arisa, his underclassman who hasn’t found her ideal partner; and, Ayumi, his cousin who is still early for love.[From Hau~ Omochikaeri!]",
+        "categories": ["romance", "comedy", "slice of life", "sexual content", "short"],
+        "cover": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773517073/purexconnect_v5ljoe.jpg",
+        "safe": true,
+        "categoriesjp": ["恋愛", "コメディ", "日常", "性的表現", "短い"],
+        "descriptionjp": "隼人はずっと胸が高鳴るような恋愛に憧れていたが、現実では毎日退屈な日々を過ごしていた。エロゲのような恋に落ちたいと願っているものの、周りの人たちはそんな彼をからかうばかり。でも、それって男なら誰でも望むことじゃないだろうか？ そんな関係を望むのは、本当にいけないことなのだろうか。11月の半ば、彼に小さなチャンスが訪れる。人気のベーカリーレストラン「ラ・ピヴォワーヌ」でアルバイトをしないかと誘われたのだ。想像もしていなかった状況に置かれた隼人は、今までの退屈な日常から抜け出すきっかけになるかもしれないと考え、その仕事を引き受ける。そこで彼はスタッフたちと出会うことになる。恋愛にまったく興味のない幼なじみの空、仕事こそが恋人だという店長の志穂、家族を何より大切にするムードメーカーのアルバイト萌実、理想の相手をまだ見つけていない後輩の有紗、そしてまだ恋をするには少し早い従妹のあゆみ。こうして、隼人の新しい日常が静かに動き始めるのだった。（Hau~ Omochikaeri! より）"
+    },
+    {
+        "id": 28,
+        "enname": "Miniature Garden",
+        "jpname": "箱庭の学園",
+        "playtime": 7,
+        "developer": "Developer",
+        "description": "In the woods not far from the city lies a school called the 'Miniature Garden.' In keeping with the school's name, an original 'Miniature Festival' is held there every three years. There’s a rumor that an unnatural death will befall someone on the night of the festival. This year, as the sun sets, Yasunari and four other students find themselves trapped alone in the school on the night of the festival. Is it just a mistake, or could the rumors be true? [From Fruitbat Factory]",
+        "categories": ["mystery", "short"],
+        "cover": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773517728/miniaturegarden_ivciy6.jpg",
+        "safe": true,
+        "categoriesjp": ["ミステリー", "短い"],
+        "descriptionjp": "街からそれほど遠くない森の中に、「ミニチュアガーデン」と呼ばれる学園がある。その名にふさわしく、この学園では三年に一度、独自の行事である「ミニチュア祭」が開催される。しかし、その祭りの夜には誰かが不自然な死を遂げるという噂があった。今年、日が沈む頃、康成と四人の生徒たちは、祭りの夜に学園の中へ取り残されてしまう。それはただの手違いなのか――それとも、その不吉な噂は本当なのだろうか。（Fruitbat Factory より）"
+
+    },
+    {
+        "id": 29,
+        "enname": "A Bridge to the Starry Skies",
+        "jpname": "星空へ架かる橋",
+        "playtime": 41,
+        "developer": "feng",
+        "description": "Kazuma moved to Yamabiko-chou due to his younger brother Ayumu’s health and ended up staying at the Yorozuyo inn, owned by his father’s friend. On his first day at school, he got lost and asked for directions from a fellow student, Ui. She led him on an offbeat path and he accidentally fell and kissed her. Coincidentally, this was all seen by Ui’s friend, Ibuki, who thought he was a bad guy and declared him to be an enemy. [From Hau~ Omochikaeri!]",
+        "categories": ["romance", "slice of life", "sexual content", "medium"],
+        "cover": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773526915/hoshizora_tennyc.jpg",
+        "safe": true,
+        "categoriesjp": ["恋愛", "日常", "性的表現", "中"],
+        "descriptionjp": "一真は、弟の歩夢の体調のためにやまびこ町へ引っ越してきた。そして父の友人が経営する旅館「よろず屋」に滞在することになる。転校初日、学校へ向かう途中で道に迷ってしまった一真は、同じ学校の生徒であるういに道を尋ねる。彼女は少し変わった道案内をし、その途中で一真は足を滑らせて転び、思わずういにキスしてしまう。ところがその一部始終を、ういの友人であるいぶきに見られてしまう。いぶきは一真を怪しい人物だと思い込み、彼を敵だと宣言するのだった。（Hau~ Omochikaeri! より）"
+    },
+    {
+        "id": 30,
+        "enname": "Endless Jade Sea -Midori no Umi-",
+        "jpname": "翠の海",
+        "playtime": 29,
+        "developer": "Cabbit",
+        "description": "In the middle of the forest, there is a beautiful lake and a spacious western-style building where 12 people lived. They had all lost their memories and woke up to find themselves in this place. With many books in the library, instruments in the music room and absolutely no troubles, it is like a paradise for the residents. Even if they wanted to leave, they can’t because it is surrounded by a sea of trees and darkness. No one has been known to have successfully left. Then, one of the boys disappeared and Kai gradually remembers his past. He wants to find out why he is here, but is warned against doing so. What would happen if he regains his memories? [From Hau~ Omochikaeri!]",
+        "categories": ["drama", "mystery", "romance", "comedy", "sexual content", "medium"],
+        "cover": "https://res.cloudinary.com/dm1gmdfhc/image/upload/v1773540625/midorinoumi_eigvfd.jpg",
+        "safe": true,
+        "categoriesjp": ["ドラマ", "ミステリー", "恋愛", "コメディ", "性的表現", "中"],
+        "descriptionjp": "森の奥深く、美しい湖と広々とした洋館が建っている場所があった。そこには12人の人々が暮らしていた。彼らは皆、記憶を失った状態でこの場所で目を覚ましたのだった。図書館にはたくさんの本があり、音楽室には楽器がそろっている。何の不自由もない生活は、まるで住人たちにとっての楽園のようだった。たとえ外へ出ようとしても、周囲は果てしない森と闇に囲まれており、ここから離れることはできない。これまでに脱出できた者は一人もいないと言われていた。そんなある日、少年の一人が突然姿を消してしまう。そしてカイは、次第に自分の過去の記憶を思い出し始める。なぜ自分がここにいるのか――その理由を知ろうとするカイだったが、周囲からはそれ以上詮索してはいけないと警告される。もし彼がすべての記憶を取り戻したら、一体何が起こるのだろうか。（Hau~ Omochikaeri! より）"
     }
 ]

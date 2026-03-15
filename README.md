@@ -1,36 +1,58 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌸 Hana gate
 
-## Getting Started
+A moe database of visual novels ~
 
-First, run the development server:
+This website was **heavily inspired by the Visual Novel Database (VNDB)** and the many fan communities that support visual novels around the world.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **User Profiles**  
+  Create your own profile and manage your personal visual novel lists.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Browse Visual Novels**  
+  Explore a growing collection of visual novels.
 
-## Learn More
+- **Track What You've Read**  
+  Mark visual novels as read and keep track of your progress.
 
-To learn more about Next.js, take a look at the following resources:
+- **Save for Later**  
+  Add titles to a list to read in the future.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Favorites List**  
+  Keep a collection of your favorite visual novels.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Write Reviews**  
+  Share your thoughts and opinions with other users.
 
-## Deploy on Vercel
+- **Random Discovery**  
+  Discover new visual novels randomly.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Tech Stack
+
+This project was built as a **full-stack web application** using modern tools:
+
+- **Next.js**
+- **React**
+- **PostgreSQL**
+- **Zustand**
+- **CSS Modules**
+
+---
+
+## Data Sources
+
+Information about visual novels displayed on this website comes from **publicly available sources and community knowledge**.
+
+All visual novels, images, and related materials belong to their respective **creators, studios, and publishers**. This website does **not claim ownership** of any original works.
+
+---
+
+## Contact
+
+If you have suggestions, feedback, or questions about the project:
+
+**Email:** sophiatrindade734@gmail.com
