@@ -1,0 +1,182 @@
+.page {
+    width: 100%;
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0.514), rgba(255, 255, 255, 0.508)), url('/bg.jpg');
+    height: 100%;
+    font-family: var(--mplus);
+    padding: 10px 20px;
+}
+.header {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    background: linear-gradient(180deg, #ffd3e8, #ffc1dc);
+    padding: 12px;
+    border-radius: 10px;
+    border: 2px solid #f167a8;
+    box-shadow: 0 0 10px rgba(241,103,168,0.4);
+    position: relative;
+}
+
+.header input {
+    flex: 1;
+    padding: 8px 10px;
+    border-radius: 6px;
+    border: 2px solid #f167a8;
+    outline: none;
+    font-size: 14px;
+    color:#a5356b;
+    background: white;
+    box-shadow: inset 0 2px 4px rgba(0,0,0,0.1);
+}
+.header input:focus {
+    border-color: #ff4fa0;
+    box-shadow: 0 0 6px rgba(241,103,168,0.6);
+}
+.showFilter {
+    background: linear-gradient(180deg, #ff8fc3, #f167a8);
+    border: 2px solid #d94b8f;
+    color: white;
+    font-weight: bold;
+    padding: 6px 14px;
+    border-radius: 6px;
+    cursor: pointer;
+    box-shadow:
+        0 0 6px rgba(241,103,168,0.6),
+        inset 0 1px 0 rgba(255,255,255,0.4);
+    transition: all 0.2s ease;
+}
+.header button:hover {
+    background: linear-gradient(180deg, #ffa6d1, #ff77b7);
+    transform: translateY(-1px);
+    box-shadow: 0 0 10px rgba(241,103,168,0.8);
+}
+.tags {
+    position: absolute;
+    top: 65px;
+    right: 0;
+    padding: 20px 10px;
+    gap: 10px;
+    background: #fff0f7;
+    border: 2px solid #f167a8;
+    border-radius: 12px;
+    box-shadow:
+        0 0 12px rgba(241,103,168,0.5),
+        inset 0 1px 0 rgba(255,255,255,0.6);
+    z-index: 10;
+    display: flex;
+    flex-wrap: wrap;
+    width: 380px;
+    justify-content: center;
+}
+.tags button {
+    font-size: 12px;
+    padding: 4px 10px;
+    background: linear-gradient(180deg,#ffd4e8,#ffb8d8);
+    border: 1px solid #f167a8;
+    border-radius: 8px;
+    cursor: pointer;
+    color: #7a1b4d;
+    font-weight: 500;
+}
+.tags button:hover {
+    background: linear-gradient(180deg,#ffc6e1,#ffa9d1);
+    transform: translateY(-1px);
+    box-shadow:
+        0 0 6px rgba(241,103,168,0.5),
+        inset 0 1px 0 rgba(255,255,255,0.6);
+}
+.activeTag {
+    background: linear-gradient(180deg,#ff7cbc,#f167a8) !important;
+    color: white !important;
+    border: 1px solid #d14b8e;
+    box-shadow:
+        0 0 8px rgba(241,103,168,0.7),
+        inset 0 1px 0 rgba(255,255,255,0.4);
+}
+.loading {
+    width: 30%;
+    display: block;
+    margin: 0px auto;
+}
+.main {
+    padding: 20px 30px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    width: 100%;
+    justify-items: center;
+    gap: 20px;
+}
+.card {
+    width: 280px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    justify-content: center;
+    border:2px solid #fff0f7;
+    border-radius:12px;
+    padding: 15px;
+    box-shadow:
+        0 0 8px rgba(241,103,168,0.35),
+        inset 0 1px 0 rgba(255,255,255,0.6);
+    transition: all .18s ease;
+    cursor: pointer;
+}
+.card img {
+    border-radius: 8px;
+    overflow:hidden;
+    width: 100%;
+    height:340px;
+    object-fit: cover;
+    background:#ffd4e8;
+}
+.card:hover {
+    transform:translateY(-3px);
+    box-shadow:
+        0 0 14px rgba(241,103,168,0.55),
+        inset 0 1px 0 rgba(255,255,255,0.7);
+}
+.card p {
+    font-size: 13px;
+    margin-top: 8px;
+    color:#7a1b4d;
+    line-height: 1.25;
+    text-align: center;
+    font-weight: 600;
+}
+.pagination {
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    background-color: white;
+    width: fit-content;
+    gap:14px;
+    margin: 0 auto;
+    margin-top:28px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.pagination button {
+    background:linear-gradient(180deg,#ff9fcf,#f167a8);
+    border:1px solid #d94b8f;
+    color: white;
+    font-weight: bold;
+    padding: 6px 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    box-shadow:
+        0 0 6px rgba(241,103,168,0.6),
+        inset 0 1px 0 rgba(255,255,255,0.4);
+}
+.pagination button:hover{
+    background:linear-gradient(180deg,#ffb3d8,#ff7cbc);
+}
+.pagination button:disabled{
+    opacity:.45;
+    cursor: default;
+}
+.pagination p {
+    font-size:14px;
+    font-weight:bold;
+    color:#c7377c;
+}
