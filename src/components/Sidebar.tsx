@@ -26,10 +26,10 @@ export default function Sidebar({isLogged, username}: Props) {
                 <Link href='/users'>{lang === 'eng' ? 'Users' : 'ユーザー'}</Link>
                 {isLogged ? 
                     <div className={styles.extraLinks}>
-                        <Link href='/settings'>{lang === 'eng' ? 'Settings': '設定'}</Link>
                         {username && 
                             <Link href={`/users/${username}`}>{lang === 'eng' ? 'Profile' : 'プロフィール'}</Link>
                         }
+                        <Link href='/settings'>{lang === 'eng' ? 'Settings': '設定'}</Link>
                     </div> :
                     <div className={styles.extraLinks}>
                         <Link href='/login'>{lang === 'eng' ? 'Login': 'ログイン'}</Link>

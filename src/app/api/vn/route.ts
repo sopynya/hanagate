@@ -11,7 +11,7 @@ export async function POST(request: Request) {
             },
             body: JSON.stringify({
                 filters: ["and", ["search", "=", searchTerm || ""], ...filters.map((id: String) => ["tag", "=", id])],
-                fields: "id, title, alttitle, image.url",
+                fields: "id, title, alttitle, image.url, image.sexual",
                 sort: "rating",
                 reverse: true,
                 results: 24,

@@ -48,7 +48,7 @@ export async function signUpWithEmail(
         }
 
         try {
-            await sql`INSERT INTO public.profiles ("userId", username) VALUES (${data.user.id}::uuid, ${username})`;
+            await sql`INSERT INTO public.profiles ("userId", username, name) VALUES (${data.user.id}::uuid, ${username}, ${name})`;
         } catch (profileError) {
             try {
                 await auth.deleteUser();
